@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm pizzuhh (known as pizza)
+A guy who likes to code and watch anime
 
-<!--
-**pizzuhh/pizzuhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>I'm working on: <a href="https://github.com/pizzuhh/random-anime-picker">random-anime-picker</a></h4>
+<br>
+<br>
+<h2>Experienced in: C and Rust 🦀</h2>
+<br>
+<br>
+<h3>Other projects you may find interesting: <a href="https://github.com/pizzuhh/DiscordWebhookManager-RUST">Discord webhook manager in rust</a> (there's one in C too :),
+ <a href="https://github.com/pizzuhh/badly-written-archinstall-script">Arch Linux install script in Lua</a></h3>
 
-Here are some ideas to get you started:
+ <h3>OS: <a href="https://archlinux.org/">Arch Linux</a></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>If you want to install my programs easily on Arch Linux you can add my repo from <a href="https://github.com/pizzuhh/pizuhh-repo">here</a></h4>
+
+<h1>Thanks for viewing my profile :D</h1>
