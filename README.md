@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm pizzuhh (known as pizza)
 A guy who likes to code and watch anime
 
-<h4>I'm working on: <a href="https://github.com/pizzuhh/random-anime-picker">random-anime-picker</a></h4>
+<h3><a href="https://www.pizzuhh.dev/">Check out my website</a></h3>
 <br>
 <br>
 <h2>Experienced in: C and Rust 🦀</h2>
