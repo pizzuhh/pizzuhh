@@ -4,7 +4,7 @@ A guy who likes to code and watch anime
 <h3><a href="https://www.pizzuhh.dev/">Check out my website</a></h3>
 <br>
 <br>
-<h2>Experienced in: C and Rust 🦀</h2>
+<h2>Experienced in: C and C++</h2>
 <br>
 <br>
 <h3>Other projects you may find interesting: <a href="https://github.com/pizzuhh/DiscordWebhookManager-RUST">Discord webhook manager in rust</a> (there's one in C too :),
